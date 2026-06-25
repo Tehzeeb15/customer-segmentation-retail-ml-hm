@@ -1,7 +1,7 @@
 
 # 🛍️ Customer Segmentation in Retail — ML Project
 
-Machine learning pipeline for customer segmentation on the **H&M dataset** (31M+ transactions, 1.37M customers). Benchmarks 4 clustering algorithms with a custom 4-layer feature engineering approach that goes beyond traditional RFM.
+Developed a Machine learning pipeline for customer segmentation on the **H&M dataset** (31M+ transactions, 1.37M customers). Benchmarks 4 clustering algorithms with a custom advanced 4-layer feature engineering approach that goes beyond traditional RFM, to identify actionable customer segments.
 
 ## 📁 Notebooks
 
