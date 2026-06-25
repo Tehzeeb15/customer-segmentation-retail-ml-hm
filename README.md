@@ -7,11 +7,9 @@ Developed a Machine learning pipeline for customer segmentation on the **H&M dat
 
 **H&M Personalized Fashion Recommendations** (Kaggle, Sept 2018 – Sept 2020)
 
-
 ## ⚙️ Pipeline
 
 Raw Data → Preprocessing → 4-Layer Feature Engineering → Normalisation + PCA → Clustering → Evaluation
-
 
 ## 📁 Notebooks
 
